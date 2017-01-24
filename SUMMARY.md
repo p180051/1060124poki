@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [楔子](楔子.md)
+* [1.Introduction](楔子.md)
+* [2.acne](2.acne.md)
 
